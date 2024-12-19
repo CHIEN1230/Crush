@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
     messDesc: 'Chúc bé giáng sinh hạnh phúc nhó.',
     btnAccept: 'Nhấn vô đây có bí mật nè',
-    messLink: 'https://www.youtube.com/watch?v=8PCF6VgT814&list=RDMM8PCF6VgT814&start_radio=1' //link mess của các bạn. VD: /dinhkaito
+    'https://www.youtube.com/watch?v=8PCF6VgT814&list=RDMM8PCF6VgT814&start_radio=1' //link mess của các bạn. VD: /dinhkaito
 }
